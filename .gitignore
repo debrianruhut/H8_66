@@ -56,4 +56,8 @@ geckodriver.log
 docs/source/changelog.md
 
 .jupyter_releaser_checkout
+<<<<<<< HEAD
 london_crime_by_lsoa.csv
+=======
+london_crime_by_lsoa.csv
+>>>>>>> 268e8ba655adb54c5609f71a7f2c92d5212664b6
